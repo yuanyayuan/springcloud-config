@@ -1,0 +1,5 @@
+data:
+  env: config-eureka-client-prod
+  user:
+    username: liyuan
+    password: liyuan123
