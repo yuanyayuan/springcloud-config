@@ -1,5 +1,5 @@
 data:
-  env: config-single-client-dev（SpringCloud Bus）
+  env: config-single-client-dev（）
   user:
     username: liyuanSama
     password: liyuanSama123
